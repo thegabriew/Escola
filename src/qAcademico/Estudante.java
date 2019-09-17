@@ -2,7 +2,7 @@
 package qAcademico;
 
 
-public class Estudante {
+public class Estudante extends Pessoa  {
     
     public String curso;
 
